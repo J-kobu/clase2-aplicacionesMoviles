@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sesion2-Inflate</string>
+    <string-array name="origenDatos">
+        <item> Seleccione la marca de su vehículo</item>
+        <item> Nissan </item>
+        <item> Toyota </item>
+        <item> Subaru </item>
+        <item> Kia </item>
+        <item> Mazda </item>
+    </string-array>
+</resources>

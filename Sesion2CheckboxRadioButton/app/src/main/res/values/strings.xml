@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sesion2-Checkbox-RadioButton</string>
+    <string name="txtChk1"> Facebook</string>
+    <string name="txtChk2"> Instagram</string>
+    <string name="txtChk3"> Twitter </string>
+    <string name="txtBtn"> Capturar datos</string>
+
+
+    <string name="txtRb1">Crédito</string>
+    <string name="txtRb2">Débito</string>
+</resources>
